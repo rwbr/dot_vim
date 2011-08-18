@@ -66,10 +66,10 @@ endif
 set visualbell
 
 " Start without the toolbar
-set guioptions-=T
+set guioptions-=TaAce
 
 " Default gui color scheme
-color ir_black
+color eclipse
 
 " ConqueTerm wrapper
 function StartTerm()
